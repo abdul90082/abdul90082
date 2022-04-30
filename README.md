@@ -1,6 +1,7 @@
-   <h1 align="center">Hi 👋, I’m Abdul Rehman</h1> <br />
+   <h1 align="center">Hi 👋, I’m Abdul Rehman</h1> 
+   
  👀 I’m interested in application development <br />
- 🌱 I’m currently working on my master thesis in [**Cloud Computing**](https://github.com/sashkoristov/bachelor-theses#profilefcs)
+ 🌱 I’m currently working on my master thesis in [**Cloud Computing**](https://github.com/sashkoristov/bachelor-theses#profilefcs) <br />
 
 <!-- - Connect Info: -->
 
